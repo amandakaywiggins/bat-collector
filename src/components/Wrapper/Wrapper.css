@@ -1,0 +1,8 @@
+.wrapper {
+    display: flex;
+    align-content: flex-start;
+    flex-flow: row wrap;
+    overflow: auto;
+    height: 100%;
+    background: linear-gradient(#b7a0c1, #f49fea, #ed15d3, #ed1515, #4c3b54);
+  }

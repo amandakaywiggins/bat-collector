@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Bent-Winged Bat",
+        "image": "assets/images/bentwingedbat.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Brazilian Funnel-Eared Bat",
+        "image": "assets/images/brazilianfunnelearedbat.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Buffy Flower Bat",
+        "image": "assets/images/buffyflowerbat.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cuban Fig-Eating Bat",
+        "image": "assets/images/cubanfigeatingbat.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cuban Flower Bat",
+        "image": "assets/images/cubanflowerbat.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dog-Faced Bat",
+        "image": "assets/images/dogfacedbat.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Great Stripe-Faced Bat",
+        "image": "assets/images/greatstripefacedbat.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Hoary Bat",
+        "image": "assets/images/hoarybat.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Little Goblin Bat",
+        "image": "assets/images/littlegoblinbat.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Pallas's Long-Tongued Bat",
+        "image": "assets/images/pallaslongtonguedbat.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Pygmy Fruit Bat",
+        "image": "assets/images/pygmyfruitbat.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Red Fruit Bat",
+        "image": "assets/images/redfruitbat.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Rodrigues' Fruit Bat",
+        "image": "assets/images/rodriguesfruitbat.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Thumbless Bat",
+        "image": "assets/images/thumblessbat.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Townsend's Big-Eared Bat",
+        "image": "assets/images/townsendbigearedbat.jpg"
+    },
+    {
+        "id": 16,
+        "name": "White Fruit Bat",
+        "image": "assets/images/whitefruitbat.jpg"
+    }
+]
